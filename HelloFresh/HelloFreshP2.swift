@@ -18,6 +18,7 @@ struct HelloFreshP2: View {
                 Image("BG2")
                     .resizable()
                     .ignoresSafeArea()
+                 //   .edgesIgnoringSafeArea(.top)
 
                 HStack(alignment: .center) {
                     Image("lemon1")

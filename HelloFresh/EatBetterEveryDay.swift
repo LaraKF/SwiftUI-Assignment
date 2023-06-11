@@ -88,6 +88,8 @@ struct EatBetterEveryDay: View {
             Spacer()
             
             NavigationLink("Continue") {     WhatAreYouHungry_for()   }
+            
+            
             }
         
             .padding(.horizontal, 32)
